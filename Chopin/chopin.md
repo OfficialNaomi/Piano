@@ -13,7 +13,7 @@ This file tracks my journey into understanding the life, context, and music of F
 | **Full Name** | Fryderyk Franciszek Chopin (Frédéric François Chopin) |
 | **Born** | March 1, 1810 — Żelazowa Wola, Poland |
 | **Died** | October 17, 1849 (Age 39) — Paris, France |
-| **Cause of Death** | Pericarditis (inflammation around the heart) resulting from Tuberculosis |
+| **Cause of Death** | Pericarditis resulting from Tuberculosis |
 | **Era** | Romantic Era (Ahead of his time in sound creation and teaching) |
 | **Primary Instrument** | Piano |
 | **Key Influences** | J.S. Bach, W.A. Mozart, Hummel, Weber, Schubert, and Vincenzo Bellini (*Bel Canto* Italian Opera) |
@@ -22,7 +22,7 @@ This file tracks my journey into understanding the life, context, and music of F
 
 ## 📖 Family, Youth & Early Education (Warsaw)
 
-* **A House of Artists:** The entire family was highly intelligent. His father played the violin and flute and worked as a successful French professor. His mother played the piano and sang—and contrary to general rumors, she was the one who actually gave Frédéric his very first piano lessons.
+* **A House of Artists:** The entire family was highly intelligent. His father played the violin and flute and worked as a successful French professor. His mother played the piano and sang—and she was the one who actually gave Frédéric his very first piano lessons.
 * **The Brilliant Sisters:** He grew up with three smart sisters who were highly talented in literature. His sister Ludwika published her own works and taught him piano when he was 4. His youngest sister, Emilia, was considered perhaps the most talented writer of all, but tragically died of tuberculosis in 1827 at age 15, causing massive heartbreak.
 * **The Freedom to Play:** His formal teacher, Wojciech Żywny, was actually more of a violinist. Crucially, Żywny introduced Chopin to the strict structures of Bach, but instead of trapping him in rules, he encouraged Chopin to play as completely freely and independently as possible. 
 * **The Young Prodigy (1818):** At just 8 years old, he played his first public concert at the Radziwiłł Palace, performing a concerto by Adalbert Gyrowetz. 
@@ -30,9 +30,20 @@ This file tracks my journey into understanding the life, context, and music of F
 
 ---
 
+## 🎨 The Artist, Mechanics, and Piano Technique
+
+* **General Artistic Talent:** Chopin wasn't just gifted at music; he was highly talented in the arts in general and was famously skilled at imitating and caricaturing people.
+* **Healthy Ergonomics ahead of his Time:** He completely revolutionized how a pianist sits and moves. He used low chairs so that his elbows were placed at the exact same level as his hands. He developed a specific, natural finger placement that is recognized as highly healthy today. However, because pianos back then varied wildly in build and mechanical feel across Europe, his technique wasn't always instantly helpful on every instrument.
+* **The Instrument Builder:** Chopin was deeply involved in the mechanics of building pianos. He kept different pianos on hand and would choose which one to play depending entirely on how he was feeling that day.
+* **Mastery of the Pedal:** He put immense, dedicated time into studying the piano pedals, viewing pedal technique as one of the most vital components of the instrument. Despite his mastery, he humbly believed he had never truly perfected it.
+* **The Dual-Hand Rubato:** He was strictly against the standard, messy rubato style of his era. Instead, he made both hands play differently: the left hand acted as a strict, steady rhythm keeper, while the right hand was allowed to play the melody freely and expressively over the top.
+* **Cryptic Notations:** His written musical notations were often unique and weird, but his dedicated students heavily assisted in translating and understanding his true intentions.
+
+---
+
 ## 🌍 Exile, Vienna, and the High Society of Paris
 
-* **The High Stats Social Circles:** Because of his elite talent, Chopin constantly rubbed shoulders with the aristocracy (*Adel*). Wealthy Polish families actively funded his education both at home and later when he moved to France.
+* **The High Circles:** Because of his elite talent, Chopin constantly rubbed shoulders with the aristocracy (*Adel*). Wealthy Polish families actively funded his education both at home and later when he moved to France.
 * **The Berlin Shift:** A trip to Berlin (specifically visiting the Sing-Akademie) deeply showed him the true emotional and spiritual value of music.
 * **The Tragedy of 1830 & The Travel Passport:** Warned by his father, Chopin permanently left Poland in 1830 alongside his close friend Tytus. While away, a failed Polish revolution against the Russian Empire took place. Because the Russian Tsar won, Chopin was blocked from returning. His passport literally had "en passant" (traveler) written on it—he was now a political fugitive, trapped living in France from 1831 onward.
 * **Vienna & Mixed Receptions:** In Vienna, he played concerts that showed off his emotional depth. While people loved his playing, they didn't always understand or like his unique compositions. Publisher Carl Haslinger helped get his music out, but the rejection weighed on him. By his second stay in Vienna (1831), his physical and mental health began to seriously spiral down.
@@ -63,4 +74,4 @@ This file tracks my journey into understanding the life, context, and music of F
 
 * **Source 1:** [The Life, Music and Times of Fryderyk Chopin (Part 1)](https://youtu.be/AsqzpN8ERKk?si=vyt8ZSDqJ1qx61fU) - Documentary Series by Per Tengstrand. 
 * **Source 2:** [Fryderyk Chopin - Documentary about the life of Frédéric Chopin (2015)](https://youtu.be/9w_i3Zm-t3c?si=dMdNeScDJqMnKj8B) - Directed by Angelo Bozzolini.
-* **Source 3:** [German Wikipedia Page for Frédéric Chopin](https://de.wikipedia.org/wiki/Frédéric_Chopin) - Key details on his mother's piano background, violin teacher, Vienna struggles, and health history.
+* **Source 3:** [German Wikipedia Page for Frédéric Chopin](https://de.wikipedia.org/wiki/Frédéric_Chopin) - In-depth tracking of his technical innovations, ergonomic playing style, pedal work, and relationship with instruments.
